@@ -1,12 +1,12 @@
 # react-project
 
-project 실행하는 법
+##project 실행하는 법
 
-cd react-project
-yarn install
-yarn start
+'cd react-project'
+'yarn install'
+'yarn start'
 
-구현 내용
+##구현 내용
 
 브랜드 필터 : Brand를 마우스로 클릭하면 브랜드 목록이 보이고, 원하는 브랜드를 클릭하면 '적용' 글자와 함께 필터링된 상품 목록이 보여집니다.
 
@@ -20,7 +20,7 @@ yarn start
 
 Pagination : react-js-pagination를 사용해서 구현했습니다. 5페이지까지 한번에 보여주며, 이전 페이지, 다음 페이지, 마지막 페이지, 처음 페이지로 가는 버튼이 있습니다.
 
-구현의 우선 순위는
+##구현의 우선 순위
 0. api 구현했습니다.
 1. 상품 목록을 보여주는 것이 가장 중요하다고 생각해서 상품 목록을 먼저 구현했습니다. 이후, 마찬가지 이유로 pagination을 구현했습니다.
 2. 이 후, 비슷한 방식으로 다양하게 구현이 가능할 것 같은 브랜드, 색상, 카테고리 필터를 구현했습니다.
