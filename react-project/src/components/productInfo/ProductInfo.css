@@ -1,0 +1,7 @@
+.ProductInfo {
+	display: flex;
+	flex-basis: 100%;
+	flex-direction: column;
+	height: auto;
+	flex-direction: column;
+}
